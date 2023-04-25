@@ -1,0 +1,15 @@
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\bin\Debug\net6.0\napysApi.Data.deps.json
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\bin\Debug\net6.0\napysApi.Data.dll
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\bin\Debug\net6.0\napysApi.Data.pdb
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\bin\Debug\net6.0\mapysApi.Model.dll
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\bin\Debug\net6.0\mapysApi.Model.pdb
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.csproj.AssemblyReference.cache
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.AssemblyInfoInputs.cache
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.AssemblyInfo.cs
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.csproj.CopyComplete
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.dll
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\refint\napysApi.Data.dll
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\napysApi.Data.pdb
+C:\Users\segur\source\repos\mapysApi\napysApi.Data\obj\Debug\net6.0\ref\napysApi.Data.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KVKlMoMxtZd7Prv/CwGuMorVgxP86ZMmds4l2l7aEfeTyd+9JRdpaUq28PvlXsGN+H8cWrXCjMc0vpJNbgnEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar\\Desktop\\CORHUILA\\SISTEMAS DISTRIBUIDOS\\mapysApi\\mapysApi.Model\\mapysApi.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

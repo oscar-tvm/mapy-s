@@ -1,0 +1,24 @@
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.deps.json
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.dll
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.pdb
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.csproj.AssemblyReference.cache
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.AssemblyInfoInputs.cache
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.AssemblyInfo.cs
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.dll
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\refint\mapysApi.Model.dll
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.pdb
+C:\Users\segur\source\repos\mapysApi\mapysApi.Model\obj\Debug\net6.0\ref\mapysApi.Model.dll
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.deps.json
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.dll
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\bin\Debug\net6.0\mapysApi.Model.pdb
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.AssemblyInfo.cs
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.dll
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\refint\mapysApi.Model.dll
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\mapysApi.Model.pdb
+C:\Users\oscar\Desktop\CORHUILA\SISTEMAS DISTRIBUIDOS\mapysApi\mapysApi.Model\obj\Debug\net6.0\ref\mapysApi.Model.dll
